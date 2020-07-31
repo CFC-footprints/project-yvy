@@ -30,6 +30,7 @@ Esto hace que sea fundamental generar consciencia respecto al impacto que tienen
 
 ## Project Roadmap
 ![alt text](https://trello-attachments.s3.amazonaws.com/5ee3dc5411a25857a379cb87/688x1356/f098eaef4667bada90252336b22b9ebd/yvy1v1.1.jpg)
+![alt_text2](https://trello-attachments.s3.amazonaws.com/5ee3dc5411a25857a379cb87/660x1844/11474f4865753099b18293530c01b3b7/yvy2v4.jpg)
 # Getting started
 
 # Live demo
