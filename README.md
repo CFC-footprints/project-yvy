@@ -27,11 +27,6 @@ Project YvY hopes to reach farmers in LA and the Caribbean who do not have the p
 
 ![arch](https://i.imgur.com/AkCbRzZ.png)
 
-## Long description
-
-El agua dulce es un recurso fundamental para la subsistencia humana y de la vida en general, un recurso escaso que debe ser cuidado ya que en las últimas décadas se ha visto amenazado por el calentamiento global y el cambio climático. 
-Esto hace que sea fundamental generar consciencia respecto al impacto que tienen nuestras acciones día a día sobre este escaso recurso, y es por esto que nuestra solución se plantea el cálculo de huella del agua como objetivo. Esta solución permitirá al agricultor entregar información del uso del agua en sus cultivos, entregando un factor diferenciador y abriéndose al mercado con interés en la sustentabilidad y protección del medio ambiente. 
-
 ## Project Roadmap
 ![alt text](https://trello-attachments.s3.amazonaws.com/5ee3dc5411a25857a379cb87/688x1356/f098eaef4667bada90252336b22b9ebd/yvy1v1.1.jpg)
 ![alt_text2](https://trello-attachments.s3.amazonaws.com/5ee3dc5411a25857a379cb87/660x1844/11474f4865753099b18293530c01b3b7/yvy2v4.jpg)
