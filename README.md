@@ -40,7 +40,7 @@ Esto hace que sea fundamental generar consciencia respecto al impacto que tienen
 
 # Built with
 
-* [IBM Cloudant - The NoSQL database used
-* IBM Cloud Foundry - The compute platform for handing logic
-* Flask - Python web framework
-* React - Javascript Library
+* [IBM Cloudant] - The NoSQL database used
+* [IBM Cloud Foundry] - The compute platform for handing logic
+* [Flask] - Python web framework
+* [React] - Javascript Library
