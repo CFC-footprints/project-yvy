@@ -1,4 +1,4 @@
-# YvY Project
+# Project YvY
 
 ## Short description
 
