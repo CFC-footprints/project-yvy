@@ -25,6 +25,8 @@ Project YVY hopes to reach farmers in LA and the Caribbean who do not have the p
 
 ## The architecture
 
+![arch](https://i.imgur.com/AkCbRzZ.png)
+
 ## Long description
 
 El agua dulce es un recurso fundamental para la subsistencia humana y de la vida en general, un recurso escaso que debe ser cuidado ya que en las últimas décadas se ha visto amenazado por el calentamiento global y el cambio climático. 
