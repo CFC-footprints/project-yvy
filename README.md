@@ -14,12 +14,12 @@ With the use of cloud resources, weather services and data processing, we could 
 
 ### The idea
 
-Project YVY is a web application that allows to measure the water footprint using updated databases on cultivation and climate, interacting with weather services and the FAO56 dataset so that the producer can upload the necessary data in a simple way and obtain the footprint for certification through the application.
+Project YvY is a web application that allows to measure the water footprint using updated databases on cultivation and climate, interacting with weather services and the FAO56 dataset so that the producer can upload the necessary data in a simple way and obtain the footprint for certification through the application.
 The application will also measure the carbon footprint of agriculture and can be integrated into blockchain of the food sector. This will give better visibility and traceability of the product, encouraging the incorporation of good practices. The web application and cloud information will enable data analytics on carbon and water in agriculture, integrating with sustainable and / or regenerative agriculture certification systems.
 
 ### Potential impact
 
-Project YVY hopes to reach farmers in LA and the Caribbean who do not have the possibility of measuring these footprints and also large agricultural companies that are transforming their production models to improve the management of footprints in order to have the possibility of joining value chains in the food sector, serving the growing demand of conscious consumers who are also beneficiaries of this application since they will have the footprint information of the products they consume.  
+Project YvY hopes to reach farmers in LA and the Caribbean who do not have the possibility of measuring these footprints and also large agricultural companies that are transforming their production models to improve the management of footprints in order to have the possibility of joining value chains in the food sector, serving the growing demand of conscious consumers who are also beneficiaries of this application since they will have the footprint information of the products they consume.  
 
 ## Demo Video
 
