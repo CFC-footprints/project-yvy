@@ -29,7 +29,7 @@ El agua dulce es un recurso fundamental para la subsistencia humana y de la vida
 Esto hace que sea fundamental generar consciencia respecto al impacto que tienen nuestras acciones día a día sobre este escaso recurso, y es por esto que nuestra solución se plantea el cálculo de huella del agua como objetivo. Esta solución permitirá al agricultor entregar información del uso del agua en sus cultivos, entregando un factor diferenciador y abriéndose al mercado con interés en la sustentabilidad y protección del medio ambiente. 
 
 ## Project Roadmap
-<img width=“964” alt=“java 8 and prio java 8  array review example” src="https://trello-attachments.s3.amazonaws.com/5ee3dc5411a25857a379cb87/688x1356/f098eaef4667bada90252336b22b9ebd/yvy1v1.1.jpg">
+![alt text](https://trello-attachments.s3.amazonaws.com/5ee3dc5411a25857a379cb87/688x1356/f098eaef4667bada90252336b22b9ebd/yvy1v1.1.jpg)
 # Getting started
 
 # Live demo
