@@ -1,0 +1,5 @@
+Flask>=1.0.0
+cloudant==2.13.0
+Flask_RESTFUL>=0.0.1
+git+https://github.com/woodcrafty/PyETo.git
+flask_cors>=0.0.1

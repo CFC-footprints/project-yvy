@@ -1,0 +1,7 @@
+---
+applications:
+ - name: GetStartedPython
+   random-route: true
+   memory: 256M
+env:
+ API_KEY_WEATHER: "METEOSTAT.NET_API_KEY"

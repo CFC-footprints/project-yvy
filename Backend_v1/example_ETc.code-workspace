@@ -1,0 +1,19 @@
+{
+    "georef": {
+        "lat": -33.416889,
+        "lon": -70.606705
+    },
+    "crop": {
+        "Category": "cereals",
+        "Name": "winter wheat (with non-frozen soils)",
+        "start": "2020-07-01",
+        "end": "2020-07-15"
+
+    },
+    "crop_stages":{
+        "Dev": "140.0", 
+        "Init": "30.0", 
+        "Late": "30.0", 
+        "Mid": "40.0"
+    }
+}
