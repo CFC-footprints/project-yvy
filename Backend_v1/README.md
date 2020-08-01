@@ -6,7 +6,7 @@
 * [Cloud Foundry CLI]
 * [Git]
 
-# Running the app.
+## Running the app.
 
 ### This backend is based in the quick start with Python in IBM Cloud. 
 
