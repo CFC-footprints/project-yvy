@@ -12,7 +12,7 @@
 
 #### 1.- Set up the database: 
 Add your IBM Cloudant url and app keys as envioroment variable: CLOUDANT_SERVICE_URL, CLOUDANT_USERNAME and CLOUDANT_PASSWORD.
-Then run the write.py script from Database folder. 
+Then run the write.py script from Database folder. This database is from the FAO56 Document http://www.fao.org/3/x0490e/x0490e0b.htm.
 
 #### 2.- Add your Meteosat API Key to the manifest.yml
 
