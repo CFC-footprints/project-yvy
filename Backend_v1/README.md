@@ -16,7 +16,7 @@ Then run the write.py script from Database folder. This database is from the FAO
 
 #### 2.- Add your Meteosat API Key to the manifest.yml
 
-#### 3.- From root folder of Backend_v1 push your code to Cloud Fondry. 
+#### 3.- From root folder of Backend_v1 push your code to Cloud Fondry.
 
 #### 4.- Then connect your cloudant database to your Cloud Foundry App.
 
